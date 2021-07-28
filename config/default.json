@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Pulkit077:Pulkit99366@devconnector.kzqsn.mongodb.net/devhub?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "cb631bb67be101474899",
+  "githubSecret": "768aa7373d000c4c1ac2a4c31ec8275cc258f786"
+}
